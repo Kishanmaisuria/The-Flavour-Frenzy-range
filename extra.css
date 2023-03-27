@@ -1,0 +1,38 @@
+.h1 {
+	font-size: 3em;
+  }
+  
+  .leftSide {
+	float: left;
+	width: 25%;
+	height: 100%;
+  }
+  
+  .rightSide {
+	padding: 20px;
+	float: right;
+	width: 75%;
+	height: 100%;
+  }
+  
+  .mh {
+	padding: auto;
+	margin: 20px;
+  }
+  
+  .footer {
+	position: fixed;
+	left: 0%;
+	right: 0%;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding: 18px;
+	margin: 0;
+	background-color: grey;
+  }
+  
+  .mh img {
+	width: 470px;
+	height: 380px;
+  }
